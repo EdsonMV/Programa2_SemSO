@@ -1,0 +1,8 @@
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\bin\Debug\Actividad2.1.exe.config
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\bin\Debug\Actividad2.1.exe
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\bin\Debug\Actividad2.1.pdb
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.1.csprojResolveAssemblyReference.cache
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.MainForm.resources
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.1.csproj.GenerateResource.Cache
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.1.exe
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.1.pdb

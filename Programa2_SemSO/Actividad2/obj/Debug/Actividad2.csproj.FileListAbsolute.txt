@@ -1,0 +1,16 @@
+C:\Users\diego\Desktop\Actividad2\Actividad2\obj\Debug\Actividad2.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Actividad2\Actividad2\obj\Debug\Actividad2.MainForm.resources
+C:\Users\diego\Desktop\Actividad2\Actividad2\obj\Debug\Actividad2.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Actividad2\Actividad2\bin\Debug\Actividad2.exe.config
+C:\Users\diego\Desktop\Actividad2\Actividad2\bin\Debug\Actividad2.exe
+C:\Users\diego\Desktop\Actividad2\Actividad2\bin\Debug\Actividad2.pdb
+C:\Users\diego\Desktop\Actividad2\Actividad2\obj\Debug\Actividad2.exe
+C:\Users\diego\Desktop\Actividad2\Actividad2\obj\Debug\Actividad2.pdb
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\bin\Debug\Actividad2.exe.config
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\bin\Debug\Actividad2.exe
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\bin\Debug\Actividad2.pdb
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.csprojResolveAssemblyReference.cache
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.MainForm.resources
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.csproj.GenerateResource.Cache
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.exe
+C:\Users\Sandy\Documents\EDSON\Escuela Edson\Sexto\Seminario sistemas operativos\Actividad 3\Actividad2\obj\Debug\Actividad2.pdb
